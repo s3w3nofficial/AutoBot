@@ -1,0 +1,10 @@
+/home/s3w3n/Documents/TCPClient/TCPClient/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/s3w3n/Documents/TCPClient/TCPClient/bin/Debug/TCPClient.exe.config
+/home/s3w3n/Documents/TCPClient/TCPClient/bin/Debug/TCPClient.exe.mdb
+/home/s3w3n/Documents/TCPClient/TCPClient/bin/Debug/TCPClient.pdb
+/home/s3w3n/Documents/TCPClient/TCPClient/bin/Debug/TCPClient.exe
+/home/s3w3n/Documents/TCPClient/TCPClient/obj/Debug/TCPClient.exe
+/home/s3w3n/Documents/TCPClient/TCPClient/obj/Debug/TCPClient.exe.mdb
+/home/s3w3n/Documents/TCPClient/TCPClient/obj/Debug/TCPClient.pdb
+/home/s3w3n/Documents/TCPClient/TCPClient/bin/Debug/SharpDX.dll
+/home/s3w3n/Documents/TCPClient/TCPClient/bin/Debug/SharpDX.XInput.dll

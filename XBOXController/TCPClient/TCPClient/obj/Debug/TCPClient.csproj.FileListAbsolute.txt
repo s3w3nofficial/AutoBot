@@ -1,0 +1,11 @@
+c:\users\lukis\source\repos\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+c:\users\lukis\source\repos\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+c:\users\lukis\source\repos\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+c:\users\lukis\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+c:\users\lukis\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+c:\users\lukis\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+c:\users\lukis\source\repos\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+c:\users\lukis\source\repos\TCPClient\TCPClient\bin\Debug\SharpDX.dll
+c:\users\lukis\source\repos\TCPClient\TCPClient\bin\Debug\SharpDX.XInput.dll
+c:\users\lukis\source\repos\TCPClient\TCPClient\bin\Debug\SharpDX.xml
+c:\users\lukis\source\repos\TCPClient\TCPClient\bin\Debug\SharpDX.XInput.xml
